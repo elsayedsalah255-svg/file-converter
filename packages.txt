@@ -1,0 +1,4 @@
+tesseract-ocr
+tesseract-ocr-ara
+libreoffice-writer
+libreoffice-calc
