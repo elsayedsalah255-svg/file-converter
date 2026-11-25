@@ -1,0 +1,8 @@
+gradio
+pdf2docx
+pdfplumber
+python-docx
+openpyxl
+pandas
+pillow
+pytesseract
